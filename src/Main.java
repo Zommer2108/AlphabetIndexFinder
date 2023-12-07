@@ -26,6 +26,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
+        int number = 1;
         String[] alphabet = {"A", "B", "C", "D", "E", "F", "G", "H", "I",
             "J", "K", "L", "M", "N", "O", "P", "Q", "R",
             "S", "T", "U", "V", "W", "X", "Y", "Z"};
@@ -57,9 +58,7 @@ public class Main {
                         continue;
                     }
                     findLetterFromIndex(alphabet, inputInt);
-
                     break;
-
             }
             System.out.print("Willst du nochmal ein Wort suchen? (y/n): ");
             programmEnd = userInput.next();
