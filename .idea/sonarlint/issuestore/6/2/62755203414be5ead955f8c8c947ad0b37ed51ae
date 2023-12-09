@@ -1,0 +1,14 @@
+
+z	java:S1351"YReduce the total number of break and continue statements in this loop to use at most one.(ÿàû¿üÿÿÿÿ8¿¡ÔğÄ1
+G	java:S106"+Replace this use of System.out by a logger.(ÆÀûı8ì¡ÔğÄ1
+G	java:S106$"+Replace this use of System.out by a logger.(ÆÀûı8í¡ÔğÄ1
+L	java:S1062"+Replace this use of System.out by a logger.(Û¬ñĞÿÿÿÿÿ8ï¡ÔğÄ1
+G	java:S1068"+Replace this use of System.out by a logger.(üöÎĞ8ï¡ÔğÄ1
+L	java:S106;"+Replace this use of System.out by a logger.(Ù¶³Éùÿÿÿÿ8ï¡ÔğÄ1
+L	java:S106B"+Replace this use of System.out by a logger.(œ˜›¯úÿÿÿÿ8ğ¡ÔğÄ1
+G	java:S106E"+Replace this use of System.out by a logger.(ç“ÀÑ8ğ¡ÔğÄ1
+L	java:S106L"+Replace this use of System.out by a logger.(ıä¨´úÿÿÿÿ8ğ¡ÔğÄ1
+G	java:S106O"+Replace this use of System.out by a logger.(…ı¸±8ğ¡ÔğÄ1
+L	java:S106R"+Replace this use of System.out by a logger.(™Š¥½úÿÿÿÿ8ğ¡ÔğÄ1
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8ĞÛÕğÄ1

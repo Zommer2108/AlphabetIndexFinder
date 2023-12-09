@@ -1,15 +1,14 @@
 
-n	java:S135#"YReduce the total number of break and continue statements in this loop to use at most one.(úŸ»
-a
-java:S1301&"KReplace this "switch" statement by "if" statements to increase readability.(Ÿ©Ùö
-@	java:S106"+Replace this use of System.out by a logger.(ñçİ
-@	java:S106"+Replace this use of System.out by a logger.(ÆÀûı
-E	java:S106$"+Replace this use of System.out by a logger.(÷×ëšşÿÿÿÿ
-7	java:S131&""Add a default case to this switch.(Ÿ©Ùö
-@	java:S106("+Replace this use of System.out by a logger.(üöÎĞ
-E	java:S106+"+Replace this use of System.out by a logger.(Ñë¾âüÿÿÿÿ
-@	java:S1062"+Replace this use of System.out by a logger.(ç˜´ù
-E	java:S1065"+Replace this use of System.out by a logger.(¼‡¢Êûÿÿÿÿ
-E	java:S1068"+Replace this use of System.out by a logger.(õ¬ìïÿÿÿÿÿ
-@	java:S106>"+Replace this use of System.out by a logger.(…ı¸±
-E	java:S106A"+Replace this use of System.out by a logger.(ªÍŠıÿÿÿÿ
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÿàû¿üÿÿÿÿ8†ŞßïÄ1
+G	java:S106"+Replace this use of System.out by a logger.(ñçİ8ÓåïÄ1
+G	java:S106"+Replace this use of System.out by a logger.(ÆÀûı8ÔåïÄ1
+H
+java:S1481"+Remove this unused "number" local variable.(æ‚áœ8ØåïÄ1
+G	java:S106"+Replace this use of System.out by a logger.(éÇøî8ŞåïÄ1
+G	java:S106$"+Replace this use of System.out by a logger.(üöÎĞ8ßåïÄ1
+L	java:S106'"+Replace this use of System.out by a logger.(Ù¶³Éùÿÿÿÿ8áåïÄ1
+L	java:S106."+Replace this use of System.out by a logger.(œ˜›¯úÿÿÿÿ8áåïÄ1
+G	java:S1061"+Replace this use of System.out by a logger.(ç“ÀÑ8ååïÄ1
+L	java:S1068"+Replace this use of System.out by a logger.(ıä¨´úÿÿÿÿ8ÎàÓïÄ1
+G	java:S106;"+Replace this use of System.out by a logger.(…ı¸±8ÎàÓïÄ1
+L	java:S106>"+Replace this use of System.out by a logger.(™Š¥½úÿÿÿÿ8’ÈÛïÄ1
